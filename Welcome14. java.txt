@@ -1,0 +1,8 @@
+// Fig 2.1: Welcome13.java
+// Text printing program
+
+public class Welcome13 {
+ 	public static void main(String[] args) {
+		System.out.print("Welcome to Java Programming!");
+	}
+}
